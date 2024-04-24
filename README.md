@@ -1,22 +1,14 @@
-🚀 Estudiante de Desarrollo Full Stack en constante búsqueda de superación y crecimiento profesional en el mundo de la tecnología. Desde que era joven, siempre estuve fascinado por la manera en que la tecnología puede transformar nuestras vidas y mejorar la forma en que interactuamos con el mundo que nos rodea. Esta pasión me llevó naturalmente a explorar carreras en el ámbito tecnológico, y ahora estoy emocionado de sumergirme en el apasionante campo del desarrollo web como estudiante en la prestigiosa academia Soy Henry.
+<h1 align="center">Hola ✌️ soy Brayan Holguin</h1>
+<h3 align="center">Full Stack Developer, estudiante de SoyHenry.com</h3>
 
-💡 Con un enfoque especializado en el desarrollo de páginas web, mi trayectoria de aprendizaje abarca diversas tecnologías clave, incluyendo Node.js, React y Redux. Me emociona la idea de crear experiencias digitales impactantes y funcionales que no solo cumplan con las expectativas del usuario, sino que también las superen con creces. Además, cuento con sólidos conocimientos en SQL para la gestión eficiente de bases de datos, lo que me permite construir aplicaciones robustas y escalables.
+- 👨‍💻 Todos mis proyectos están disponibles en: [https://github.com/Brayan8Holguin](https://github.com/Brayan8Holguin)
 
-🔧 Mi objetivo principal es fortalecer y expandir mis habilidades técnicas, con el fin de alcanzar la excelencia en el desarrollo de software. Estoy comprometido con el aprendizaje continuo y la adaptación a las últimas tendencias del sector, siempre en busca de ofrecer soluciones innovadoras y de alta calidad que impulsen el éxito de los proyectos en los que participo.
+- 📫Contáctame!!! **raulhh1998@hotmail.com**
 
-¿Cómo fue que comenzaste a interesarte por tu carrera en tecnología? Mi interés por la tecnología surgió desde una edad temprana, cuando descubrí el poder transformador de la informática y cómo puede resolver problemas de manera creativa. Desde entonces, he estado inmerso en aprender todo lo posible sobre el mundo digital y cómo puedo contribuir a él de manera significativa.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/brayan holguin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brayan holguin" height="30" width="40" /></a>
+</p>
 
-<!--
-**Brayan8Holguin/Brayan8Holguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
